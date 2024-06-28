@@ -20,7 +20,9 @@ JDBC: Used for database connectivity and executing SQL queries.
 SQL: The database language used for creating and managing the database.
 
 # Prerequisites
-JDK (Java Development Kit) installed on your system.\n
+JDK (Java Development Kit) installed on your system.
+<br>
 A relational database (e.g., MySQL, PostgreSQL) set up with the necessary tables.
+<br>
 JDBC driver for your database.
 
